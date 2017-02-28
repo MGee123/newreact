@@ -1,0 +1,13 @@
+1. String
+
+2. object: string, integer
+
+3. Array: Intger	
+ 
+4. Array: objects: string, integer
+
+5. Object: Array: Objects: String
+
+6. _.map accepts Array and a function, returns a new array
+
+7. _.filter accepts Array and function, returns either Array, object, string and integer
