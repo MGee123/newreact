@@ -1,10 +1,10 @@
 import React from 'react' //ignore this
 import Banana from './banana'
-import Apple from './apple'
-import MyFunction from './myfunction'
+import  { apple } from './apple'
+import { myfunction } from './myfunction'
 console.log(Banana)
-console.log(Apple)
-console.log(MyFunction)
+console.log(apple)
+console.log(myfunction)
 
 // Ignore this!
 export default () => <p>Import Export Tasks. Open your debugger :)</p>
