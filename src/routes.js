@@ -6,9 +6,10 @@ import ImportExportTasks from './components/importExportTasks'
 import Banana from './components/importExportTasks/banana'
 import Apple from './components/importExportTasks/apple'
 import MyFunction from './components/importExportTasks/myfunction'
+import Fruits from './components/importExportTasks/fruits'
 export const routes = [
   { path: 'reactTasks', component: ReactTasks },
-  { path: 'importExportTasks', component: ImportExportTasks }, { path: 'importExportTasks', component: Banana }, { path: 'apple', component: Apple }, { path: 'myfunction', component: MyFunction }
+  { path: 'importExportTasks', component: ImportExportTasks }, { path: 'importExportTasks', component: Banana }, { path: 'apple', component: Apple }, { path: 'myfunction', component: MyFunction }, { path: 'fruits', component: Fruits }
 ]
 
 export default {
